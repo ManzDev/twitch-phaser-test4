@@ -1,0 +1,7 @@
+@font-face {
+  font-family: DigitalDisco;
+  src:
+    url("assets/fonts/digitaldisco.woff2") format("woff2"),
+    url("assets/fonts/digitaldisco.woff") format("woff"),
+    url("assets/fonts/digitaldisco.ttf") format("truetype");
+}
